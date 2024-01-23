@@ -1,0 +1,10 @@
+# IDEs
+.vs/
+.idea/
+.vscode/
+
+###############
+# Directories #
+###############
+bin/
+obj/
